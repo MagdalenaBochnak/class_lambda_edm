@@ -8,6 +8,7 @@
  * Chluba & Sunyaev 2012 (MNRAS419(2012)1294-1314, arXiv:1109.6552)
  * Chluba 2013 (MNRAS434(2013)352, arXiv:1304.6120)
  * Clube & Jeong 2014 (MNRAS438(2014)2065–2082, arXiv:1306.5751)
+ * 
  */
 
 #include "distortions.h"
