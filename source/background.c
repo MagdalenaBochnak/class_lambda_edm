@@ -110,6 +110,7 @@
  * - any prime in the code stands for \f$ (1/a_0) d/d\tau \f$
  * - r stands for any comoving radius times a_0
  * - etc.
+ * - etc.
  */
 
 #include "background.h"
